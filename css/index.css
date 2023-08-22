@@ -1,0 +1,14 @@
+body{
+    background-color:  rgb(200, 230, 230);
+}
+.centro{
+    background-color: rgb(255, 122, 122);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.centrob{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
