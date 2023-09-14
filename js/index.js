@@ -1,3 +1,3 @@
 function alertar(){
-    alert('Sucesso!')
+    alert('Muito gata!')
 }
